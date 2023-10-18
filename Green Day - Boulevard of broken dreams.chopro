@@ -4,26 +4,25 @@
 {capo: 1}
 {key: Fm}
 Capo 1, Key Fm
-Intro
-[Em, G, D, A]x2
+{c:Intro}
+[Em, G, D, A x2]
 
-Verse 1:
+{c:Verse 1:}
 [Em]    I walk a [G]lonely road the [D]only one that [A]I have ever k[Em]nown
 Don't know [G]where it goes [D]but it's home to [A]me and I walk a[Em]lone
 
-Interlude:
+{c:Interlude:}
 [Em, G, D, A] 
 
-Verse 2:
+{c:Verse 2:}
 [Em]    I walk this [G]empty street [D]on the Boule[A]vard of Broken D[Em]reams
 Where the [G]city sleeps and [D]I'm the only [A]one and I walk a[Em]lone
 
-
-Interlude:
-[Em] [G] [D]    I walk a[A]lone...I walk alo[E]ne
+{c:Interlude:}
+[Em] [G] [D]    I walk a[A]lone...I walk alo[Em]ne
 [(Em)] [G] [D]  I walk a[A]lone...I walk a...
 
-Chorus:
+{c:Chorus:}
 {soc}
 [C]  My sha[G]dow's the [D]only one that [Em]walks beside me
 [C]  My sha[G]llow h[D]eart's the only [Em]thing that's beating
@@ -32,41 +31,37 @@ Chorus:
 {eoc}
 {comment_box: ** On B down strums, stop play on 3rd beat }
 
-Chorus 2:
+{c:Chorus 2:}
 {soc}
 [Em]Ah-ah, [G]Ah-ah, [D]Ah-ah, [A]Aaah-[Em]ah,
 Ah-ah[G], Ah-ah[D], Ah-ah[A]
 {eoc}
 
-Verse 3:
+{c:Verse 3:}
 [Em]    I'm walking [G]down the line [D]that divides me [A]somewhere in my [Em]mind
 On the [G]border line [D]of the edge and [A]where I walk alone
 
-Interlude
+{c:Interlude}
 [Em, G, D, A]
 
-Verse 4:
+{c:Verse 4:}
 [Em]   Read be[G]tween the lines [D]what's fucked up and [A]everything's al[Em]right
 Check my [G]vital signs to [D]know I'm still [A]alive and I walk alone...
 
-Interlude:
-[Em] [G] [D]    I walk a[A]lone...I walk alo[E]ne
+{c:Interlude:}
+[Em] [G] [D]    I walk a[A]lone...I walk alo[Em]ne
 [(Em)] [G] [D]  I walk a[A]lone...I walk a...
 
-Chorus
-{chorus}
-
-Chorus 2
+{c:Chorus}
+{c:Chorus 2}
 
 [(Em)] [G] [D]  I walk a[A]lone...I walk a...
-
-[Solo]  {comment_box: ** Same chords as chorus }
-
+{comment_box: Solo ** Same chords as chorus }
 
 [Em]    I walk this [G]empty street [D]on the Boule[A]vard of Broken D[Em]reams
 Where the [G]city sleeps and [D]I'm the only [A]one and I walk a..
 
-[Chorus]
+{c:Chorus}
 
-Outro:
+{c:Outro}
 [Em] [C] [D] [A/C#] [G] [D#5]
