@@ -6,6 +6,7 @@ Capo:2nd fret
 {c:intro}
 [Am   E7   G   D   F   C   Dm   E7   x2]
 
+{c:Verse 1}
 [Am]  On a dark desert highway, [E7]cool wind in my hair
 [G]  Warm smell of colitas, [D]rising through the air
 [F]  Up ahead in the distance, [C]I saw a shimering light
@@ -19,28 +20,33 @@ Capo:2nd fret
 [E7]I thought I heard them say
 
 {soc}
+{c:Chorus}
 [F]  Welcome to the Hotel Cali[C]fornia
 Such a [E7]lovely place (such a lovely place), such a [Am]lovely face
 [F]Plenty of room at the Hotel Cali[C]fornia
 Any [Dm]time of year (any time of year), you can [E7]find it here
 {eoc}
 
+{c:Verse 2}
 [Am]  Her mind is Tiffany twisted, [E7]she got the Mercedes Benz
 [G]  She got a lot of pretty, pretty boys, [D]that she calls friends
 [F]  How they dance in the courtyard, [C]sweet summer sweat
 [Dm]  Some dance to remember, [E7]some dance to forget
+
 [Am]  So I called up the captain, [E7]Please bring me my wine, He said
 [G]  We haven't had that spirit here since [D]nineteen sixty-nine
 [F]  And still those voices are calling from [C]far away
 [Dm] Wake you up in the middle of the night, [E7]just to hear them say
 
 {soc}
+{c:Chorus}
 [F]   Welcome to the Hotel Cali[C]fornia
 Such a [E7]lovely place (such a lovely place), such a [Am]lovely face
 They're [F]livin' it up at the Hotel Cali[C]fornia
 What a [Dm]nice surprise (what a nice surprise), bring your [E7]alibis
 {eoc}
 
+{c:Verse 3}
 [Am]Mirrors on the ceiling, [E7]the pink champagne on ice, and she said
 [G]We are all just prisoners here, [D]of our own device
 [F]And in the master's chambers, [C]they gathered for the feast
@@ -51,7 +57,7 @@ What a [Dm]nice surprise (what a nice surprise), bring your [E7]alibis
 [F]Relax, said the night man, We are [C]programmed to receive
 [Dm]You can check out any time you like, but [E7]you can never leave"
 
-{comment: chorus}
+{comment: Chorus}
 
 
 ======

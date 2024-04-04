@@ -10,6 +10,7 @@ Tempo: 123bpm
 [Am   F   C   G]
 
 {start_of_chorus}
+{c:Chorus}
 [Am]    How long, how l[F]ong will I [C]slide?
 [G]Separate my s[Am]iiii-[F]iiide
 I d[C]on't, d[G]on't believe it's b[Am]aaa-[F]aaad
@@ -31,7 +32,7 @@ I've got to take it on the otherside
 [G]Take it on [G]
 [A5]Take it on [A5]
 
-{c:chorus}
+{c:Chorus}
 
 {c:verse}
 Pour my life into a paper cup
@@ -48,21 +49,21 @@ I've got to take it on the otherside
 [G]Take it on [G]
 [A5]Take it on [A5]
  
-[Chorus]
+{c:Chorus}
 
-[Instrumental]
+{c:Instrumental}
 [Em Em C C] x2
  
-[Bridge]
+{c:Bridge}
 [Em]  Turn me on take me for a hard ride
 [C]  Burn me out leave me on the otherside
 [Em]  I yell and tell it that it's not my friend
 [C]  I tear it down I tear it down, and then it's born again
  
-[Guitar Solo]
+{c:Guitar Solo}
 [Am   F   C   G]
  
-[Chorus]
+{c:Chorus}
  
 [Am]Haaa-[F]aaad, I d[C]on't, [G]don't believe it's s[Am]aaa-[F]aaad                    
 Sl[C]itting my throat, it's [G]all I ever [Am]

@@ -2,14 +2,14 @@
 {st:Seguridad Social}
 {artist:Seguridad Social}
  
- INTRO:
+ {c:intro}
  [D|][G]Dejare mi tierra por ti
  [D|][G]dejare mis campos y me [Em]ire... lejos de aqui.
  
  [D|]Cr[G]uzare llorando el Jardin
  y con tus recuerdos part[Em]ire... lejos de aqui.
  
- VERSO 1:
+ {c:Verso 1}
  De [C]dia vivire
  p[|Bm]ensando en tu sonr[Em|]isa
  de [C]noche las estrellas me acomp[|Bm]añara[Em|]n.
@@ -19,14 +19,16 @@
  [D/F# Dsus4][D]
  que mañana volvere.
  
- CORO:
+ {soc}
+{c:Coro}
  [|G]Al part[D|]ir un [Em]beso y una flor
  un te q[|G]uiero, una ca[C|]ricia y un ad[G]ios
  un [|C]ligero equi[Bm|]paje
  [|C]para tan largo [D|]viaje
  [|G]las penas pesan e[C|]n el coraz[D]on.
+{eoc}
  
- VERSO 2:
+{c:Verso 2}
  [|G]Mas al[D|]la del [Em]mar habra un lugar
  donde el [|G]sol cada manana[C|] brille[G] mas
  forjar[|C]an mi d[Bm|]estino
@@ -37,4 +39,8 @@
  [D]Co[G]n mis manos y con tu amor
  [G]lograre encontrar otra ilus[Em]ion ...lejos de aqui.
  
- VERSO1--CORO--VERSO2
+ {c:Verso 1}
+
+ {c:Coro}
+ 
+ {c:Verso 2}
